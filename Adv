@@ -1,13 +1,12 @@
-Advantage of Selenium   
+ 
+Selenium component:
+1.  Selenium Core
 
---------------------
+2.  Selenium IDE, 
 
-1.  Open source.
+3. Selenium RC.
 
-2.  Works on multiple OS(Windows, mac, Linux etc).
+4.  Selenium Grid, 
 
-3.  Works on almost all browser(Edge, Chrome, Safari, Opera, Firefox)
+5.  Selenium WebDriver.
 
-4.  It supports multiple progamming language(Java, C#, Ruby, Python, PHP, and pearl etc).
-
-5.  Set of libraries(which required less space 20-25 MB).
