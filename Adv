@@ -1,13 +1,11 @@
-Advantage of Selenium   
 
---------------------
+1.  Selenium Core
 
-1.  Open source.
+2.  Selenium IDE, 
 
-2.  Works on multiple OS(Windows, mac, Linux etc).
+3. Selenium RC.
 
-3.  Works on almost all browser(Edge, Chrome, Safari, Opera, Firefox)
+4.  Selenium Grid, 
 
-4.  It supports multiple progamming language(Java, C#, Ruby, Python, PHP, and pearl etc).
+5.  Selenium WebDriver.
 
-5.  Set of libraries(which required less space 20-25 MB).
